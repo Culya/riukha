@@ -9,7 +9,7 @@ $ pip install -r requirements.txt
 $ python2 riukha.py
 ````
 ### Login 
-- Cookies 
+- Token 
 #
 Jika terjadi bug pada script atau tidak tahu cara menggunakan nya silahkan hubungi saya! 
 #### hubungi 
