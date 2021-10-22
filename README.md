@@ -5,7 +5,6 @@ $ pkg install python2
 $ pkg install git
 $ git clone https://github.com/Culya/riukha
 $ cd riukha
-$ pip install -r requirements.txt
 $ python2 riukha.py
 ````
 ### Login 
